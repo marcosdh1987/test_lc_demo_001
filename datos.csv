@@ -1,119 +1,138 @@
 nombre,apellido,nota,vinculo,parte,rangoEdad
-Stella,Russo,,familia,cele,mayor
+Luisina,Abrach,,trabajo,cele,mayor
+Blanca,abuela,,familia,cele,mayor
+Gonzalo ,Alonso,,amigos,cele,mayor
+German,Alvarez,,trabajo,cele,mayor
+Juan,Avila,pareja su,trabajo,cele,mayor
+Susana,Balboa,,trabajo,cele,mayor
+Antonella,Barigelli,pareja Nahue,trabajo,cele,mayor
+Romina,Benegas,,amigos,cele,mayor
+Jerry,Beraun,,amigos,cele,mayor
+Natalia,Besso,,trabajo,cele,mayor
+Laura,Bianchini,,amigos,cele,mayor
+Clara,Cabral,,trabajo,cele,mayor
 Mario,Caceres,,familia,cele,mayor
 Pablo,Caceres,,familia,cele,mayor
-Juana,Valenzuela,,familia,cele,mayor
 Doris,Caceres,,familia,cele,mayor
 Mari ,Caceres,,familia,cele,mayor
 Joselito,Caceres,,familia,cele,mayor
-Viviana,Liptak,,familia,cele,mayor
 Luciana,Caceres,,familia,cele,mayor
-Daniel,Vargas,,familia,cele,mayor
-Isabella,Vargas,hija luci,familia,cele,menor
-Alex,Vargas,hijo daniel,familia,cele,mayor
 Ceferino,Caceres,,familia,cele,mayor
 Nicolas,Caceres,,familia,cele,mayor
 Jorge,Caceres,,familia,cele,mayor
 Pedro,Caceres,,familia,cele,mayor
-Tamara,Cordoba,,familia,cele,mayor
 Renata,Caceres,hija pedro,familia,cele,menor
 Isis,Caceres,,familia,cele,mayor
-Blanca,abuela,,familia,cele,mayor
-Jose ,Russo,,familia,cele,mayor
-Yamila,Romanesse,,amigos,cele,mayor
-Gonzalo ,Alonzo,,amigos,cele,mayor
-Veronica,Mercado,,amigos,cele,mayor
-Nicolas,Parisi,,amigos,cele,mayor
-Agustina,Wouterlood,,amigos,cele,mayor
-Ignacio,Scilipoti,,amigos,cele,mayor
-Sol,Chana,,amigos,cele,mayor
-Maju,Mazquelet,,amigos,cele,mayor
-Ramiro,Casallia,,amigos,cele,mayor
-Lujan,Francese,,amigos,cele,mayor
-Santiago,,pareja lujan,amigos,cele,mayor
-Veronica,Giuliani,,amigos,cele,mayor
-Ariel,Carignano,pareja Vero,amigos,cele,mayor
-Luciana,Errotabehere,,amigos,cele,mayor
-Laureano,Galera,pareja Luna,amigos,cele,mayor
-Laura,Bianchini,,amigos,cele,mayor
-Damian,Pissano,pareja Lali,amigos,cele,mayor
-Gabriela,Costa,la tucu,amigos,cele,mayor
-Salvador,Gianoni,hijo tucu,amigos,cele,mayor
-Lizandro,Quijada,hijo tucu,amigos,cele,mayor
-Joaquin,Imaz,,trabajo,cele,mayor
-Natalia,del bianco,,trabajo,cele,mayor
-francisco,Imaz,hijo joaquin,trabajo,cele,menor
-Sabrina,Cortes,,trabajo,cele,mayor
-Gerardo,Espindola,pareja sabri,trabajo,cele,mayor
-Natalia,Besso,,trabajo,cele,mayor
-Gustavo,Vergara,pareja Nati,trabajo,cele,mayor
-Gabriel ,Contrera,,trabajo,cele,mayor
-Andres,Potolichio,,trabajo,cele,mayor
-Gimena,Gutierrez,,trabajo,cele,mayor
-Nahuel,Pistonesi,,trabajo,cele,mayor
-Antonella,Barigelli,pareja Nahue,trabajo,cele,mayor
-Santiago,Pontoriero,,trabajo,cele,mayor
-Pedro,Silvero,,trabajo,cele,mayor
-Alejandro,Lagos,,trabajo,cele,mayor
-Susana,Balboa,,trabajo,cele,mayor
 Maximiliano,Caffaratti,,trabajo,cele,mayor
-Jorge,Quidel,,trabajo,cele,mayor
-Matias,Zurita,,trabajo,cele,mayor
-German,Alvarez,,trabajo,cele,mayor
-Martin ,Willhuber,,trabajo,cele,mayor
-Agustina,Torres,,trabajo,cele,mayor
+Ariel,Carignano,pareja Vero,amigos,cele,mayor
 Rocio,Carlevaro,,trabajo,cele,mayor
-Magali,Cortes,,trabajo,cele,mayor
+Ramiro,Casallia,,amigos,cele,mayor
 Diego,Cavilla,,trabajo,cele,mayor
-Luisina,Abrach,,trabajo,cele,mayor
-Luciana,Roca,,trabajo,cele,mayor
-Josefina,Mercado,,trabajo,cele,mayor
+Sol,Chana,,amigos,cele,mayor
+Gabriel ,Contrera,,trabajo,cele,mayor
+Tamara,Cordoba,,familia,cele,mayor
+Sabrina,Cortes,,trabajo,cele,mayor
+Magali,Cortes,,trabajo,cele,mayor
+Gabriela,Costa,la tucu,amigos,cele,mayor
+Natalia,del bianco,,trabajo,cele,mayor
+Luciana,Errotabehere,,amigos,cele,mayor
+Gerardo,Espindola,pareja sabri,trabajo,cele,mayor
+Lujan,Franzese,,amigos,cele,mayor
+Laureano,Galera,pareja Luna,amigos,cele,mayor
+Salvador,Gianoni,hijo tucu,amigos,cele,mayor
+Veronica,Giuliani,,amigos,cele,mayor
+Gimena,Gutierrez,,trabajo,cele,mayor
 Daniel,Hernandez,,amigos,cele,mayor
-Romina,Benegas,,amigos,cele,mayor
-Silvia,Osan,,familia,marcos,mayor
-Omar,Soto,,familia,marcos,mayor
-Julieta ,Soto,,familia,marcos,mayor
-Analaura,Soto,,familia,marcos,mayor
+Joaquin,Imaz,,trabajo,cele,mayor
+francisco,Imaz,hijo joaquin,trabajo,cele,menor
+Alejandro,Lagos,,trabajo,cele,mayor
+Viviana,Liptak,,familia,cele,mayor
+Anahi,Martinez,,amigos,cele,mayor
+Maju,Masquelet,,amigos,cele,mayor
+Veronica,Mercado,,amigos,cele,mayor
+Josefina,Mercado,,trabajo,cele,mayor
+Matias,Novio de Romi,,amigos,cele,mayor
+Nicolas,Parisi,,amigos,cele,mayor
+Damian,Pissano,pareja Lali,amigos,cele,mayor
+Nahuel,Pistonesi,,trabajo,cele,mayor
+Santiago,Pontoriero,,trabajo,cele,mayor
+Andres,Potolichio,,trabajo,cele,mayor
+Jorge,Quidel,,trabajo,cele,mayor
+Lisandro,Quijada,hijo tucu,amigos,cele,mayor
+Luciana,Roca,,trabajo,cele,mayor
+Martin ,Rollon,,amigos,cele,mayor
+Yamila,Romanesse,,amigos,cele,mayor
+Trinidad,Ruiz,,amigos,cele,mayor
+Stella,Russo,,familia,cele,mayor
+Jose ,Russo,,familia,cele,mayor
+Ignacio,Scilipoti,,amigos,cele,mayor
+Pedro,Silvero,,trabajo,cele,mayor
+Romina,Tiecher,,amigos,cele,mayor
+Agustina,Torres,,trabajo,cele,mayor
+Juana,Valenzuela,,familia,cele,mayor
+Daniel,Vargas,,familia,cele,mayor
+Isabella,Vargas,hija luci,familia,cele,menor
+Alex,Vargas,hijo daniel,familia,cele,mayor
+Gustavo,Vergara,pareja Nati,trabajo,cele,mayor
+Martin ,Willhuber,,trabajo,cele,mayor
+Agustina,Wouterlood,,amigos,cele,mayor
+Matias,Zurita,,trabajo,cele,mayor
+Santiago,,pareja lujan,amigos,cele,mayor
+Anthony,Pena,,amigos,en comun,mayor
+Carmen,Medina,,amigos,en comun,mayor
+Patricia,Medina,,amigos,en comun,mayor
+Jose ,Pena,,amigos,en comun,mayor
+Steffany,Novia anthony,,amigos,en comun,mayor
+Alex,Pena,,amigos,en comun,mayor
+Monica,Novia Alex,,amigos,en comun,mayor
+Andrea,Alvarez,,amigos,marcos,mayor
+Julieta ,Amadio,,amigos,marcos,mayor
 Leandro,Araujo,,familia,marcos,mayor
 Agustin ,Araujo,,familia,marcos,menor
 Sol,Araujo,,familia,marcos,menor
-Valentino,Pastrana,,familia,marcos,menor
-Bruno,Pastrana,,familia,marcos,menor
-Abuela,Kuki,,familia,marcos,mayor
-Andrea,Osan,,familia,marcos,mayor
+Fernanda,Badell,pareja guille,amigos,marcos,mayor
+Cristian,Bruno,,amigos,marcos,mayor
+Guillermo,Canestraci,,amigos,marcos,mayor
+,Chola,Pareja cristian,amigos,marcos,mayor
+Lucas,Dominguez,,amigos,marcos,mayor
+Agustin ,Garcia,,amigos,marcos,mayor
 Adrian,Giglioli,,familia,marcos,mayor
 Gianluca,Giglioli,,familia,marcos,mayor
 Chiara,Giglioli,,familia,marcos,mayor
 Giovanni,Giglioli,,familia,marcos,mayor
+Gabriela,Godoy,pareja nico,amigos,marcos,mayor
+Diego,Guittins,,amigos,marcos,mayor
+Matias,Herrera,,amigos,marcos,mayor
+Gonzalo ,Hourcade,,amigos,marcos,mayor
+Abuela,Kuki,,familia,marcos,mayor
+Marco,Latkze,,amigos,marcos,mayor
+Julian,Marzialetti,,amigos,marcos,mayor
+Florencia,Marzialetti,Pareja julian,amigos,marcos,mayor
 Cristian,Metzger,,amigos,marcos,mayor
 Mariana ,Metzger,,amigos,marcos,mayor
-Anahi,Venegas,,amigos,marcos,mayor
-Lucas,Dominguez,,amigos,marcos,mayor
-Agustin ,Garcia,,amigos,marcos,mayor
-Martin ,Rodriguez,,amigos,marcos,mayor
-Andrea,Alvarez,,amigos,marcos,mayor
-Nicolas,Tarantino,,amigos,marcos,mayor
-Gabriela,,pareja nico,amigos,marcos,mayor
-Guillermo,Canestraci,,amigos,marcos,mayor
-Fernanda,Badell,pareja guille,amigos,marcos,mayor
-Gonzalo ,Hourcade,,amigos,marcos,mayor
-Paula,,pareja gonza,amigos,marcos,mayor
-Romina,Trollano,,amigos,marcos,mayor
-Cristian,Bruno,,amigos,marcos,mayor
-,Chola,Pareja cristian,amigos,marcos,mayor
-Juan ,Yelos,,amigos,marcos,mayor
-Natalia,,Pareja Negro,amigos,marcos,mayor
 Santiago,Nazzo,,amigos,marcos,mayor
-Julian,Mar..,,amigos,marcos,mayor
-Flor,,Pareja julian,amigos,marcos,mayor
+Brunno,Novia de bruno,,amigos,marcos,mayor
+Silvia,Osan,,familia,marcos,mayor
+Andrea,Osan,,familia,marcos,mayor
+Marite,Paniconi,,amigos,marcos,mayor
+Valentino,Pastrana,,familia,marcos,menor
+Bruno,Pastrana,,familia,marcos,menor
+Micaela,Puricelli,Pareja Mati,amigos,marcos,mayor
+Brunno,Reggiani,,amigos,marcos,mayor
+Martin ,Rodriguez,,amigos,marcos,mayor
+Omar,Soto,,familia,marcos,mayor
+Julieta ,Soto,,familia,marcos,mayor
+Analaura,Soto,,familia,marcos,mayor
 Sergio,Tapia,,amigos,marcos,mayor
-Matias,Herrera,,amigos,marcos,mayor
-Mica,,Pareja Mati,amigos,marcos,mayor
-Antoni ,Peña,,amigos,cele,mayor
-Trini,,,amigos,cele,mayor
-novio,trini,,amigos,cele,mayor
-Anahi,Martinez,,amigos,cele,mayor
-Martin ,Rollon,,amigos,cele,mayor
-Romina,Tiecher,,amigos,cele,mayor
-Bruno,,,amigos,marcos,mayor
-novia bruno,,,amigos,marcos,mayor
+Nicolas,Tarantino,,amigos,marcos,mayor
+Romina,Trollano,,amigos,marcos,mayor
+Anahi,Venegas,,amigos,marcos,mayor
+Juan ,Yelos,,amigos,marcos,mayor
+Paula,,pareja gonza,amigos,marcos,mayor
+Natalia,,Pareja Negro,amigos,marcos,mayor
+Martin ,Maino,,amigos,marcos,mayor
+Agostina,novia Martin Maino,,amigos,marcos,mayor
+Martin ,Lavacara,,amigos,marcos,mayor
+Guadalupe,Maqueda,,amigos,marcos,mayor
+Matias,Cruz,,amigos,marcos,mayor
+Lidia,Castro,,amigos,marcos,mayor
